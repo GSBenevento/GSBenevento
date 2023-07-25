@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gabriel Benevento</h1>
-<h3 align="center">A person who wants to continue improving as a full stack developer from Argentine</h3>
 
 - 🌱 I’m currently learning **React, Redux**
 
 - 💬 Ask me about **React, Express, Sequelize**
 
 - 📫 How to reach me **gaby88akd@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
