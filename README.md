@@ -4,9 +4,9 @@
 <h4 align="center">I always liked everything related to the world of development and programming. In search of what I'm passionate about, I've always studied things related to development. For that reason, I enrolled in a bootcamp where I learned a lot of knowledge related to web development.
 
 My technical skills have improved significantly thanks to the bootcamp and working on a project. I am more capable when it comes to facing challenges that arise. Not only did I improve technically, but my soft skills also got better. By working in a team on the final project, I was able to enhance my communication with my colleagues. We were friends and a team, tackling a project, and overcoming goals and challenges that came our way.</h4>
-<h3 align="center"> </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gsbenevento&label=Profile%20views&color=0e75b6&style=flat" alt="gsbenevento" /> </p>
+
+<p align="left", margin-top="15px"> <img src="https://komarev.com/ghpvc/?username=gsbenevento&label=Profile%20views&color=0e75b6&style=flat" alt="gsbenevento" /> </p>
 
 - 🔭 Worked on a project called: [Liliana Gamestore](https://lilianagamesstore.onrender.com)
 
