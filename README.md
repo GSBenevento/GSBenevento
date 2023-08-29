@@ -10,7 +10,7 @@ My technical skills have improved significantly thanks to the bootcamp and worki
 
 - 🔭 Worked on a project called: [Liliana Gamestore](https://lilianagamesstore.onrender.com)
 
-- 🌱 I’m currently learning **React,Redux,Sequelize,NodeJs**
+- 🌱 I’m currently learning **React, Redux, Sequelize, NodeJs**
 
 - 📫 How to reach me **gabriel.benevento1@gmail.com**
 
